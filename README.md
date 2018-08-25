@@ -1,7 +1,7 @@
 # slick-pi-hole
 
 # What
-Simple bookmarklet that allows to visit links that were blocked by Pi-hole on Slickdeals.net
+Simple bookmarklet that allows to visit links that were blocked by Pi-hole on website https://slickdeals.net/ (probably other sites as well)
 
 Instead of using whitelist or user scripts, simply click the bookmark when viewing a blocked page.
 
