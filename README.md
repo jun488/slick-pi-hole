@@ -5,6 +5,8 @@ Simple bookmarklet that allows to visit links that were blocked by Pi-hole on we
 
 Instead of using whitelist or user scripts, simply click the bookmark when viewing a blocked page.
 
+Very good chance it works only some time, as Slickdeals has a buttload of different ways they encode stuff.
+
 # Where
 Tested Browsers
 * Chrome Version 68.0.3440.106 (Official Build) (64-bit)
